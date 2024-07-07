@@ -1,5 +1,5 @@
 # Towards-deployment
-This repository showcases my journey towards learning deployment of a Machine learning or deep learning. This is a very important step, as it helps us integrate our model with an app or a website, so that it can be made open for users.
+This repository showcases my journey towards learning deployment of a Machine learning or deep learning model. This is a very important step, as it helps us integrate our model with an app or a website, so that it can be made open for users.
 
 
 Deploying machine learning (ML) models involves making the trained models available for use in a production environment, where they can provide predictions on new data. Here are the key steps and considerations involved in the deployment process:
